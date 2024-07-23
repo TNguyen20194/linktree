@@ -1,3 +1,3 @@
 # Custom Linktree
 
-![Design preview for the Linktree](images/Lintree-preview.jpg)
+![Design preview for the Linktree](images/linktreepreview.jpg)
